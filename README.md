@@ -3,7 +3,7 @@
 DubCraft is a full-stack AI video-dubbing app. Upload a video, transcribe speech, translate it, and generate a dubbed audio track that gets merged back into the video — with real-time progress updates.
 
 ## Demo
-<video src="assets/Screen%20Recording%202026-04-02%20013452.mp4" controls width="800"></video>
+<video src="assets/demo.gif" controls width="800"></video>
 
 If your Markdown renderer doesn't show the player, download it here: [Demo video](assets/Screen%20Recording%202026-04-02%20013452.mp4).
 
