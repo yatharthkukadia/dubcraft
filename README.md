@@ -35,11 +35,10 @@ If your Markdown renderer doesn't show the player, download it here: [Demo video
 
 ## Installation (from GitHub)
 ```bash
-git clone <YOUR_GITHUB_REPO_URL>
+git clone https://github.com/yatharthkukadia/dubcraft.git
 cd dubcraft
 ```
 
-> Replace `<YOUR_GITHUB_REPO_URL>` with your repo URL.
 
 ---
 
